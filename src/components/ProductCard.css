@@ -34,3 +34,20 @@
 .add-to-cart-btn:hover {
   background-color: #0077cc;
 }
+.description {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.price {
+  font-weight: bold;
+  color: #1e90ff;
+  margin: 0.5rem 0;
+}
+
+.category {
+  display: block;
+  font-size: 0.8rem;
+  color: #999;
+  margin-bottom: 0.5rem;
+}
